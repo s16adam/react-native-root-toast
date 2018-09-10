@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "^3.0.0",
+        "react-native-root-siblings": "https://github.com/s16adam/react-native-root-toast.git",
         "prop-types": "^15.5.10"
     },
     "peerDependencies": {
